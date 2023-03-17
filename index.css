@@ -9,6 +9,7 @@
 .container{
   height: 100vh;
   display: flex;
+  width:600px;
   justify-content: center;
   align-items: center;
 }
